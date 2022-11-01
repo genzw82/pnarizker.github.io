@@ -21,6 +21,7 @@
               <img src="pano.jpg" width="360px">
               <h1>SMK BUMI PUTERA</h1>
               <img src="panok.jpg" width="360px">
+              <img scr="kayong.jpg" width="360px">
            </header>
           
       </div>
