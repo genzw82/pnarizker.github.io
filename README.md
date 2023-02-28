@@ -1,54 +1,35 @@
-<!DOCTYPE html>
-<html>
+# Cant Code
 
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
-	<title>Cant Code - Home</title>
-	<link href="style.css" rel="stylesheet" type="text/css">
-    <link rel="shortcut icon" href="https://i.pinimg.com/750x/ee/4c/81/ee4c810d49cd8f4efafa41d023e1e9de.jpg">
+<img src="https://cdn.discordapp.com/attachments/891578585536684052/914733511389364264/unknown.png" alt="https://followcantcode.smktd.repl.co">
 
-    <!-- METAS -->
-    <meta name="og:keywords" content="cantcode, cantcode twitter, follow cantcode">
-    <meta name="og:description" content="A profile card made with HTML, CSS and JavaScript!">
-    <meta property="og:image" content="https://cdn.discordapp.com/attachments/891578585536684052/914733243704700928/unknown.png">
-    <meta property="og:title" content="Cant Code">
-</head>
+<hr>
 
-<body>
-    <div class="container">
-        <div class="card">
-            <div class="circle">
-                <img class="image" src="https://i.pinimg.com/750x/ee/4c/81/ee4c810d49cd8f4efafa41d023e1e9de.jpg" alt="cantcode">
-            </div>
-            <h2>CantCode023</h2>
+A profile card made with HTML, CSS and JavaScript!
 
-            <p>My name is Putera otherwise known as cantcode023.<br><a href="https://cantcode023.netlify.app" target="_blank">Learn more</a>.</p>
+# Personal Website
 
-            <div class="socials">
-                <!-- Twitter -->
-                <a href="https://twitter.com/cantcode023" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/cccccc/twitter--v1.png"></a>
+Check out my personal website <a href="https://personal-website.smktd.repl.co" target="_blank">here!</a>
 
-                <!-- Youtube -->
-                <a href="https://www.youtube.com/channel/UCH1I4Ak44uDbI67T6i-u1Mg" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/cccccc/youtube-play.png"/></a>
+# Twitter
 
-                <!-- Twitch -->
-                <a href="https://twitch.tv/cantcode023" target="_blank"><img src="https://img.icons8.com/material-outlined/30/cccccc/twitch.png"/></a>
+Follow me on Twitter <a href="https://twitter.com/cantcode3" target="_blank">here!</a>
 
-                <!-- Instagram -->
-                <a href="https://instagram.com/cantcode023" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/cccccc/instagram-new.png"/></a>
+# Youtube
 
-                <!-- TikTok -->
-                <a href="https://tiktok.com/@cantcode023" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/cccccc/tiktok.png"/></a>
-                
-                <!-- Github -->
-                <a href="https://github.com/CantCode023" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/cccccc/github.png"/></a>
-            </div>
-            <br><a class="eh" href="https://github.com/CantCode023/CantCodeCard" target="_blank">Source Code</a>
-        </div>
-    </div>
-	<script src="script.js">
-	</script>
-</body>
+Subscribe to me on Youtube <a href="https://www.youtube.com/channel/UCH1I4Ak44uDbI67T6i-u1Mg" target="_blank">here!</a>
 
-</html
+# Twitch
+
+Follow me on Twitch <a href="https://twitch.tv/icowr" target="_blank">here!</a>
+
+# Instagram
+
+Follow me on Instagram <a href="https://instagram.com/cantcode023" target="_blank">here!</a>
+
+# Tik Tok
+
+Follow me on TikTok <a href="https://tiktok.com/@cantcode023" target="_blank">here!</a>
+
+# Facebook
+
+Follow me on Facebook <a href="https://www.facebook.com/profile.php?id=100071671650607" target="_blank">here!</a>
