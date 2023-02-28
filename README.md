@@ -19,7 +19,7 @@
     <div class="container">
         <div class="card">
             <div class="circle">
-                <img class="image" src="cantcode.png" alt="cantcode">
+                <img class="image" src="https://i.pinimg.com/750x/ee/4c/81/ee4c810d49cd8f4efafa41d023e1e9de.jpg" alt="cantcode">
             </div>
             <h2>CantCode023</h2>
 
